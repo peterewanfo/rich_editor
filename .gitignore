@@ -79,3 +79,4 @@ build/
 .notes
 .DS_Store
 .idea
+.fvm
